@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.entirej</groupId>
+  <artifactId>entirej-fx</artifactId>
+  <versioning>
+    <release>R3.0.0</release>
+    <versions>
+      <version>R3.0.0</version>
+    </versions>
+    <lastUpdated>20150325093618</lastUpdated>
+  </versioning>
+</metadata>
