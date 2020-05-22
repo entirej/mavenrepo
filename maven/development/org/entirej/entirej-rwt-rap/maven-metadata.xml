@@ -3,10 +3,9 @@
   <groupId>org.entirej</groupId>
   <artifactId>entirej-rwt-rap</artifactId>
   <versioning>
-    <release>DEVELOPMENT</release>
     <versions>
-      <version>DEVELOPMENT</version>
+      <version>DEVELOPMENT-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20200522064417</lastUpdated>
+    <lastUpdated>20200522101510</lastUpdated>
   </versioning>
 </metadata>
