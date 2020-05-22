@@ -241,8 +241,6 @@
 			<groupId>org.eclipse.rap.incubator</groupId>
 			<artifactId>org.eclipse.rap.chartjs</artifactId>
 			<version>3.1.14</version>
-			<scope>system</scope>
-			<systemPath>${project.basedir}/extlibs/org.eclipse.rap.chartjs.jar</systemPath>
 		</dependency>
 		<dependency>
 			<groupId>org.eclipse.rap</groupId>
