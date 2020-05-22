@@ -3,10 +3,9 @@
   <groupId>org.entirej</groupId>
   <artifactId>entirej-report-runners</artifactId>
   <versioning>
-    <release>DEVELOPMENT</release>
     <versions>
-      <version>DEVELOPMENT</version>
+      <version>DEVELOPMENT-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20200219095346</lastUpdated>
+    <lastUpdated>20200522101157</lastUpdated>
   </versioning>
 </metadata>
