@@ -3,10 +3,9 @@
   <groupId>org.entirej</groupId>
   <artifactId>entirej-rwt-spring</artifactId>
   <versioning>
-    <release>DEVELOPMENT</release>
     <versions>
-      <version>DEVELOPMENT</version>
+      <version>DEVELOPMENT-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20200522064435</lastUpdated>
+    <lastUpdated>20200522101530</lastUpdated>
   </versioning>
 </metadata>

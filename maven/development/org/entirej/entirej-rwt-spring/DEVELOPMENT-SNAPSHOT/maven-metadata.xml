@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.entirej</groupId>
+  <artifactId>entirej-rwt-spring</artifactId>
+  <version>DEVELOPMENT-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20200522.101530</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20200522101530</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>DEVELOPMENT-20200522.101530-1</value>
+        <updated>20200522101530</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>DEVELOPMENT-20200522.101530-1</value>
+        <updated>20200522101530</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
