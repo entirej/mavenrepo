@@ -1,8 +1,12 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Jul 24 12:21:01 IST 2019
-http\://maven-eclipse.github.io/maven/.error=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jun 10 11:37:20 IST 2020
 https\://repo.maven.apache.org/maven2/.lastUpdated=1506606826976
-http\://maven-eclipse.github.io/maven/.lastUpdated=1563951061866
-https\://raw.github.com/entirej/mavenrepo/gh-pages/maven/development/.lastUpdated=1506606824333
+http\://beckchr.github.com/ithaka-maven/mvnrepo/.error=
+https\://raw.github.com/entirej/mavenrepo/gh-pages/maven/${MAVEN.REPO.PATH}/.error=
 https\://raw.github.com/entirej/mavenrepo/gh-pages/maven/development/.error=
+http\://beckchr.github.com/ithaka-maven/mvnrepo/.lastUpdated=1590126224414
+https\://raw.github.com/entirej/mavenrepo/gh-pages/maven/${MAVEN.REPO.PATH}/.lastUpdated=1591769240551
 https\://repo.maven.apache.org/maven2/.error=
+http\://maven-eclipse.github.io/maven/.error=
+https\://raw.github.com/entirej/mavenrepo/gh-pages/maven/development/.lastUpdated=1506606824333
+http\://maven-eclipse.github.io/maven/.lastUpdated=1563951061866
