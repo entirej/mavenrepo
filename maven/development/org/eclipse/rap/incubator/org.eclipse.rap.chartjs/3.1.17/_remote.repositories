@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 17 17:31:21 IST 2020
+org.eclipse.rap.chartjs-3.1.17.pom>=
+org.eclipse.rap.chartjs-3.1.17.jar>=
