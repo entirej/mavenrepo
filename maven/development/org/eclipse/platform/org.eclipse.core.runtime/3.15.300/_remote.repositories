@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 22 10:01:37 IST 2020
+org.eclipse.core.runtime-3.15.300-sources.jar>central=
+org.eclipse.core.runtime-3.15.300.pom>central=
+org.eclipse.core.runtime-3.15.300.jar>central=
