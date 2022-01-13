@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 30 16:59:19 IST 2019
+org.eclipse.osgi-3.15.0.jar>central=
+org.eclipse.osgi-3.15.0.pom>central=

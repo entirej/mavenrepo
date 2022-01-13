@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 22 10:03:12 IST 2020
+org.eclipse.core.databinding.observable-1.7.0.jar>central=
+org.eclipse.core.databinding.observable-1.7.0-sources.jar>central=
+org.eclipse.core.databinding.observable-1.7.0.pom>central=

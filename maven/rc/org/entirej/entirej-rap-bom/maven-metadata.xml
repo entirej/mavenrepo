@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.entirej</groupId>
+  <artifactId>entirej-rap-bom</artifactId>
+  <versioning>
+    <versions>
+      <version>7.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20220104083712</lastUpdated>
+  </versioning>
+</metadata>

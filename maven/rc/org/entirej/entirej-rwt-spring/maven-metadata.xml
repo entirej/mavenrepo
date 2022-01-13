@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.entirej</groupId>
+  <artifactId>entirej-rwt-spring</artifactId>
+  <versioning>
+    <versions>
+      <version>DEVELOPMENT-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20220104083700</lastUpdated>
+  </versioning>
+</metadata>
