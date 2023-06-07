@@ -2,24 +2,24 @@
 <metadata modelVersion="1.1.0">
   <groupId>org.entirej</groupId>
   <artifactId>entirej-core</artifactId>
-  <version>DEVELOPMENT-SNAPSHOT</version>
   <versioning>
+    <lastUpdated>20230607160606</lastUpdated>
     <snapshot>
-      <timestamp>20230216.111236</timestamp>
+      <timestamp>20230607.160606</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20230216111236</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>DEVELOPMENT-20230216.111236-1</value>
-        <updated>20230216111236</updated>
+        <value>DEVELOPMENT-20230607.160606-1</value>
+        <updated>20230607160606</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>DEVELOPMENT-20230216.111236-1</value>
-        <updated>20230216111236</updated>
+        <value>DEVELOPMENT-20230607.160606-1</value>
+        <updated>20230607160606</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
+  <version>DEVELOPMENT-SNAPSHOT</version>
 </metadata>
