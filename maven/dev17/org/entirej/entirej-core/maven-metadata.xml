@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.entirej</groupId>
+  <artifactId>entirej-core</artifactId>
+  <versioning>
+    <release>DEVELOPMENT</release>
+    <versions>
+      <version>DEVELOPMENT</version>
+      <version>DEVELOPMENT-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230216111236</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>de.odysseus.ithaka</groupId>
+  <artifactId>ithaka-digraph</artifactId>
+  <version>1.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20200522071112</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.1-SNAPSHOT</value>
+        <updated>20200522071112</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.1-SNAPSHOT</value>
+        <updated>20160523083427</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.1-SNAPSHOT</value>
+        <updated>20160523083427</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

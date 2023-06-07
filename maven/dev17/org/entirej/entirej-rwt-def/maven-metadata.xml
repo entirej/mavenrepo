@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.entirej</groupId>
+  <artifactId>entirej-rwt-def</artifactId>
+  <versioning>
+    <versions>
+      <version>DEVELOPMENT-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230323142807</lastUpdated>
+  </versioning>
+</metadata>
