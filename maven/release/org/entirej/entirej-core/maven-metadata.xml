@@ -3,11 +3,9 @@
   <groupId>org.entirej</groupId>
   <artifactId>entirej-core</artifactId>
   <versioning>
-    <release>DEVELOPMENT</release>
     <versions>
-      <version>DEVELOPMENT</version>
       <version>DEVELOPMENT-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20230216111236</lastUpdated>
+    <lastUpdated>20230623101307</lastUpdated>
   </versioning>
 </metadata>
