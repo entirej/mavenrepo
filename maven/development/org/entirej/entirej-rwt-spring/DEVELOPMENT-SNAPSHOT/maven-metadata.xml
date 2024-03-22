@@ -3,21 +3,21 @@
   <groupId>org.entirej</groupId>
   <artifactId>entirej-rwt-spring</artifactId>
   <versioning>
-    <lastUpdated>20240322155510</lastUpdated>
+    <lastUpdated>20240322162736</lastUpdated>
     <snapshot>
-      <timestamp>20240322.155510</timestamp>
-      <buildNumber>10</buildNumber>
+      <timestamp>20240322.162736</timestamp>
+      <buildNumber>11</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>DEVELOPMENT-20240322.155510-10</value>
-        <updated>20240322155510</updated>
+        <value>DEVELOPMENT-20240322.162736-11</value>
+        <updated>20240322162736</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>DEVELOPMENT-20240322.155510-10</value>
-        <updated>20240322155510</updated>
+        <value>DEVELOPMENT-20240322.162736-11</value>
+        <updated>20240322162736</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
