@@ -1,10 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri May 27 12:24:59 IST 2022
-https\://repo.maven.apache.org/maven2/.lastUpdated=1653634497644
-https\://raw.github.com/entirej/mavenrepo/gh-pages/maven/${MAVEN.REPO.PATH}/.error=
-https\://raw.github.com/entirej/mavenrepo/gh-pages/maven/development/.error=
-https\://raw.github.com/entirej/mavenrepo/gh-pages/maven/${MAVEN.REPO.PATH}/.lastUpdated=1653634499105
+#Wed Apr 24 20:06:51 IST 2024
+https\://repo.maven.apache.org/maven2/.lastUpdated=1713969411473
 https\://repo.maven.apache.org/maven2/.error=
-https\://raw.github.com/entirej/mavenrepo/gh-pages/maven/development/.lastUpdated=1653634497045
-http\://maven-eclipse.github.io/maven/.error=
-http\://maven-eclipse.github.io/maven/.lastUpdated=1653634497342
