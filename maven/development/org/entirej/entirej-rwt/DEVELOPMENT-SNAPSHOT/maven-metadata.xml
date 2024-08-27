@@ -3,21 +3,21 @@
   <groupId>org.entirej</groupId>
   <artifactId>entirej-rwt</artifactId>
   <versioning>
-    <lastUpdated>20240826170743</lastUpdated>
+    <lastUpdated>20240827104210</lastUpdated>
     <snapshot>
-      <timestamp>20240826.170743</timestamp>
-      <buildNumber>22</buildNumber>
+      <timestamp>20240827.104210</timestamp>
+      <buildNumber>23</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>DEVELOPMENT-20240826.170743-22</value>
-        <updated>20240826170743</updated>
+        <value>DEVELOPMENT-20240827.104210-23</value>
+        <updated>20240827104210</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>DEVELOPMENT-20240826.170743-22</value>
-        <updated>20240826170743</updated>
+        <value>DEVELOPMENT-20240827.104210-23</value>
+        <updated>20240827104210</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
