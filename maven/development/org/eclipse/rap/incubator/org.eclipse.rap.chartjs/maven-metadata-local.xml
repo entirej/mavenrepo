@@ -3,12 +3,13 @@
   <groupId>org.eclipse.rap.incubator</groupId>
   <artifactId>org.eclipse.rap.chartjs</artifactId>
   <versioning>
-    <release>3.1.22</release>
+    <release>4.0.01</release>
     <versions>
       <version>3.1.20</version>
       <version>3.1.21</version>
       <version>3.1.22</version>
+      <version>4.0.01</version>
     </versions>
-    <lastUpdated>20240523161753</lastUpdated>
+    <lastUpdated>20250109153829</lastUpdated>
   </versioning>
 </metadata>
