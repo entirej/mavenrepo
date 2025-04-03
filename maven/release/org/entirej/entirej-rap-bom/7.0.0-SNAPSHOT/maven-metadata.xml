@@ -3,16 +3,16 @@
   <groupId>org.entirej</groupId>
   <artifactId>entirej-rap-bom</artifactId>
   <versioning>
-    <lastUpdated>20250206095241</lastUpdated>
+    <lastUpdated>20250324163836</lastUpdated>
     <snapshot>
-      <timestamp>20250206.095241</timestamp>
-      <buildNumber>7</buildNumber>
+      <timestamp>20250324.163836</timestamp>
+      <buildNumber>5</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>7.0.0-20250206.095241-7</value>
-        <updated>20250206095241</updated>
+        <value>7.0.0-20250324.163836-5</value>
+        <updated>20250324163836</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
