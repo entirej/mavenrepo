@@ -3,21 +3,21 @@
   <groupId>org.entirej</groupId>
   <artifactId>entirej-report-runners</artifactId>
   <versioning>
-    <lastUpdated>20251105144458</lastUpdated>
+    <lastUpdated>20251105145916</lastUpdated>
     <snapshot>
-      <timestamp>20251105.144458</timestamp>
-      <buildNumber>16</buildNumber>
+      <timestamp>20251105.145916</timestamp>
+      <buildNumber>17</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>DEVELOPMENT-20251105.144458-16</value>
-        <updated>20251105144458</updated>
+        <value>DEVELOPMENT-20251105.145916-17</value>
+        <updated>20251105145916</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>DEVELOPMENT-20251105.144458-16</value>
-        <updated>20251105144458</updated>
+        <value>DEVELOPMENT-20251105.145916-17</value>
+        <updated>20251105145916</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
