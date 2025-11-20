@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 07 13:29:10 IST 2021
+org.eclipse.equinox.app-1.6.0.jar>central=
+org.eclipse.equinox.app-1.6.0-sources.jar>central=
+org.eclipse.equinox.app-1.6.0.pom>central=

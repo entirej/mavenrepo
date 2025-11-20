@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.entirej</groupId>
+  <artifactId>entirej-core</artifactId>
+  <versioning>
+    <lastUpdated>20240626152517</lastUpdated>
+    <snapshot>
+      <timestamp>20240626.152517</timestamp>
+      <buildNumber>8</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>DEVELOPMENT-20240626.152517-8</value>
+        <updated>20240626152517</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>DEVELOPMENT-20240626.152517-8</value>
+        <updated>20240626152517</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>DEVELOPMENT-SNAPSHOT</version>
+</metadata>

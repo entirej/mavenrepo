@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 22 10:09:07 IST 2020
+org.eclipse.equinox.common-3.11.0.jar>central=
+org.eclipse.equinox.common-3.11.0.pom>central=
+org.eclipse.equinox.common-3.11.0-sources.jar>central=

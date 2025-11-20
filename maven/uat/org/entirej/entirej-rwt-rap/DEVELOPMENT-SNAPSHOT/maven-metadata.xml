@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.entirej</groupId>
+  <artifactId>entirej-rwt-rap</artifactId>
+  <versioning>
+    <lastUpdated>20250812160044</lastUpdated>
+    <snapshot>
+      <timestamp>20250812.160044</timestamp>
+      <buildNumber>56</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>DEVELOPMENT-20250812.160044-56</value>
+        <updated>20250812160044</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>DEVELOPMENT-20250812.160044-56</value>
+        <updated>20250812160044</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>DEVELOPMENT-SNAPSHOT</version>
+</metadata>

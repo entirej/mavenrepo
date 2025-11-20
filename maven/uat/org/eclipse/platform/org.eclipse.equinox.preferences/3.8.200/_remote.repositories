@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 26 13:16:54 IST 2021
+org.eclipse.equinox.preferences-3.8.200.pom>central=
+org.eclipse.equinox.preferences-3.8.200-sources.jar>central=
+org.eclipse.equinox.preferences-3.8.200.jar>central=
