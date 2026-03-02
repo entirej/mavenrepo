@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.entirej</groupId>
+  <artifactId>entirej-report-runners</artifactId>
+  <versioning>
+    <lastUpdated>20260210113545</lastUpdated>
+    <snapshot>
+      <timestamp>20260210.113545</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>DEVELOPMENT-20260210.113545-1</value>
+        <updated>20260210113545</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>DEVELOPMENT-20260210.113545-1</value>
+        <updated>20260210113545</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>DEVELOPMENT-SNAPSHOT</version>
+</metadata>

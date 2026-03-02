@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 07 13:29:07 IST 2021
+org.eclipse.core.contenttype-3.8.0.jar>central=
+org.eclipse.core.contenttype-3.8.0.pom>central=
+org.eclipse.core.contenttype-3.8.0-sources.jar>central=
