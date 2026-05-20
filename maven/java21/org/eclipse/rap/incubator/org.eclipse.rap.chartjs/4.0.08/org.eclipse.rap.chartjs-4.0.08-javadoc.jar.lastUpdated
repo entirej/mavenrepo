@@ -1,8 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu May 15 21:15:50 IST 2025
-https\://oss.sonatype.org/content/repositories/orgeclipserap-1097/.error=
-https\://oss.sonatype.org/content/repositories/orgeclipserap-1097/.lastUpdated=1747323950539
-https\://raw.github.com/entirej/mavenrepo/gh-pages/maven/development/.error=
-https\://raw.github.com/entirej/mavenrepo/gh-pages/maven/development/.lastUpdated=1747323937680
-https\://repo.maven.apache.org/maven2/.error=
-https\://repo.maven.apache.org/maven2/.lastUpdated=1747323938319

@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri May 22 10:08:12 IST 2020
-http\://maven-eclipse.github.io/maven/.error=
-https\://repo.maven.apache.org/maven2/.lastUpdated=1590122292276
-https\://raw.github.com/entirej/mavenrepo/gh-pages/maven/development/.lastUpdated=1590122291341
-http\://maven-eclipse.github.io/maven/.lastUpdated=1590122291628
-https\://raw.github.com/entirej/mavenrepo/gh-pages/maven/development/.error=
