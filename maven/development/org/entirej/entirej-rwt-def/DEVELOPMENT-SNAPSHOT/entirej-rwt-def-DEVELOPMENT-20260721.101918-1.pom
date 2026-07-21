@@ -2,11 +2,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.entirej</groupId>
-	<artifactId>entirej-development</artifactId>
-	<version>${VERSION}</version>
-	<name>Entirej Development</name>
+	<artifactId>entirej-rwt-def</artifactId>
+	<version>${VERSION}-SNAPSHOT</version>
+	<name>Entirej RWT Definitions</name>
 	<build>
-		<finalName>entirej-development-${VERSION}</finalName>
+		<finalName>entirej-rwt-renderer-defs-${VERSION}</finalName>
 		<sourceDirectory>src</sourceDirectory>
 		<testSourceDirectory>tests</testSourceDirectory>
 		<resources>
@@ -26,17 +26,16 @@
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.0</version>
+				<version>3.13.0</version>
 				<configuration>
-					<source>11</source>
-					<target>11</target>
+					<release>21</release>
 				</configuration>
 			</plugin>
 
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-jar-plugin</artifactId>
-				<version>2.1</version>
+				<version>3.4.2</version>
 				<configuration>
 					<archive>
 						<manifestEntries>
@@ -57,10 +56,10 @@
 				<artifactId>maven-javadoc-plugin</artifactId>
 				<configuration>
 					<links>
-						<link>http://docs.oracle.com/javase/6/docs/api/</link>
+						<link>https://docs.oracle.com/en/java/javase/21/docs/api/</link>
 					</links>
-					<javadocVersion>1.6</javadocVersion>
-					<source>1.6</source>
+					<javadocVersion>21</javadocVersion>
+					<source>21</source>
 					<show>public</show>
 					<doctitle>Entirej Development API</doctitle>
 					<title>Entirej Development API</title>
@@ -71,13 +70,13 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-source-plugin</artifactId>
-				<version>2.2.1</version>
+				<version>3.3.1</version>
 			</plugin>
 
 
 			<plugin>
 				<artifactId>maven-deploy-plugin</artifactId>
-				<version>2.7</version>
+				<version>3.1.2</version>
 				<configuration>
 					<altDeploymentRepository>internal.repo::default::file://${built.repo.dir}</altDeploymentRepository>
 				</configuration>
@@ -87,7 +86,7 @@
 			<plugin>
 				<groupId>com.github.github</groupId>
 				<artifactId>site-maven-plugin</artifactId>
-				<version>0.10</version>
+				<version>0.12</version>
 				<configuration>
 					<message>Maven artifacts for
 						${project.groupId}:${project.artifactId}:${project.version}
@@ -121,7 +120,7 @@
 			<extension>
 				<groupId>org.apache.maven.wagon</groupId>
 				<artifactId>wagon-ftp</artifactId>
-				<version>2.4</version>
+				<version>3.5.3</version>
 			</extension>
 		</extensions>
 	</build>
@@ -129,7 +128,7 @@
 		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-api</artifactId>
-			<version>1.7.3</version>
+			<version>2.0.16</version>
 		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
@@ -144,15 +143,25 @@
 			<version>${VERSION.CORE}</version>
 		</dependency>
 		<dependency>
-			<groupId>org.eclipse.swt</groupId>
-			<artifactId>org.eclipse.swt.win32.win32.x86_64</artifactId>
-			<version>3.7.2</version>
+			<groupId>org.entirej</groupId>
+			<artifactId>entirej-development</artifactId>
+			<version>${VERSION.CORE}</version>
 		</dependency>
-		<dependency>
-			<groupId>org.eclipse.jface</groupId>
-			<artifactId>org.eclipse.jface</artifactId>
-			<version>3.7.0.v20110928-1505</version>
-		</dependency>
+
+        <dependency>
+            <groupId>org.eclipse.swt</groupId>
+            <artifactId>org.eclipse.swt.win32.win32.x86_64</artifactId>
+            <version>3.7.2</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/libs/org.eclipse.swt.win32.win32.x86_64_3.8.1.v3836b.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>org.eclipse.jface</groupId>
+            <artifactId>org.eclipse.jface</artifactId>
+            <version>3.7.0.v20110928-1505</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/libs/org.eclipse.jface_3.7.0.v20110928-1505.jar</systemPath>
+        </dependency>
 		<dependency>
 			<groupId>org.eclipse.ui</groupId>
 			<artifactId>forms</artifactId>
@@ -163,7 +172,6 @@
 			<artifactId>app</artifactId>
 			<version>1.0.0-v20070606</version>
 		</dependency>
-
 	</dependencies>
 
 	<repositories>
@@ -175,10 +183,9 @@
 				<updatePolicy>always</updatePolicy>
 			</snapshots>
 		</repository>
-		<repository>
-			<id>swt-repo</id>
-			<url>https://swt-repo.googlecode.com/svn/repo/</url>
-		</repository>
+
+
+
 	</repositories>
 
 
