@@ -3,21 +3,21 @@
   <groupId>org.entirej</groupId>
   <artifactId>entirej-core</artifactId>
   <versioning>
-    <lastUpdated>20240626152517</lastUpdated>
+    <lastUpdated>20260518095311</lastUpdated>
     <snapshot>
-      <timestamp>20240626.152517</timestamp>
-      <buildNumber>8</buildNumber>
+      <timestamp>20260518.095311</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>jar</extension>
-        <value>DEVELOPMENT-20240626.152517-8</value>
-        <updated>20240626152517</updated>
+        <extension>pom</extension>
+        <value>DEVELOPMENT-20260518.095311-1</value>
+        <updated>20260518095311</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <extension>pom</extension>
-        <value>DEVELOPMENT-20240626.152517-8</value>
-        <updated>20240626152517</updated>
+        <extension>jar</extension>
+        <value>DEVELOPMENT-20260518.095311-1</value>
+        <updated>20260518095311</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
